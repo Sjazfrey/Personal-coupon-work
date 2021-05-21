@@ -1,0 +1,58 @@
+.dot {
+    margin-top:50px;
+    height: 65px;
+    width: 65px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 40px;
+    margin-bottom: 60px;
+  }
+.sidenav {
+    height: 100%;
+    width: 152px;
+    position: fixed;
+    margin-right: 152px;
+    z-index: 1;
+    left: 0;
+    background-color: #008B75;
+    overflow-x: hidden;
+    padding-top: 20px;
+    margin-top: 150px;
+  }
+  
+  .sidenav a {
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+  }
+.fa-user{
+    font-size: 48px;
+    color: #F57E5D;
+    margin-left: 15px;
+    margin-top: 8px;
+}
+.fa-ticket {
+    font-size: 48px;
+    color: #F57E5D;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.fa-question {
+    font-size: 48px;
+    color: #F57E5D;
+    margin-left: 19px;
+    margin-top: 8px;
+}
+.atitle {
+   margin-top: 8px;
+   margin-left: -40px;
+   text-align: center;
+}
+.htitle {
+    margin-top: 8px;
+    margin-left: -27px;
+    text-align: center;
+}

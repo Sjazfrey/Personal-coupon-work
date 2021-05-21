@@ -1,0 +1,133 @@
+.profile {
+    margin-top: 200px;
+    height: 220px;
+    width: 220px;
+    background-color: #aaaa;
+    border-radius: 50%;
+    display: inline-block; 
+    margin-bottom: 60px; 
+    margin-left: -20px;  
+    width:150px;height:150px;     
+    box-shadow: 12px -12px; 
+    -webkit-box-shadow: 12px 12px #E6EDF6;
+    border-radius:100px;    
+  }
+  .custname {
+    margin-left: -20px;
+  }
+  .custemail {
+    margin-left: -20px;
+  }
+ 
+   
+  .vl {
+      border-left: 2px solid grey;
+      // margin-left: 20px;
+      border-right:  2px solid grey;
+      margin-top: 200px;   
+   
+  }
+  .fcolor {
+      background-color: #008B75;
+      text-decoration-color: white;
+      border-radius: 10px;
+      width: 175px;
+      height: 30px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: -20px;     
+  }
+  .tcolor {
+    background-color: #008B75;
+    text-decoration-color: white;
+    border-radius: 10px;
+    width: 175px;
+    height: 30px;
+    text-align: center; 
+    margin-left: -20px;
+   
+  }
+  .circle{
+    width:20px;
+    height:20px;
+    border-radius:100%;
+    position:relative;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    display:inline-block;
+    vertical-align:middle;
+    background-color: #008B75;
+
+  }
+  .circle.plus:before,
+  .circle.plus:after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background:white;
+  }
+  .circle.plus:before{
+      width: 2px;
+      margin: 2px auto;
+  }
+  .circle.plus:after{
+      margin: auto 2px;
+      height: 2px;
+  }
+  .Promo-space {          
+      border-radius: 10px;
+      padding: 1em 1em; 
+      background-color: #E6EDF6; 
+      height: 350px; 
+      margin-left: -40px; 
+      margin-right: 20px;   
+  }
+  .third-column {
+    margin-top: 200px;
+    text-align: center;
+    margin-right: -90px;
+    margin-left: 5em;
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+    
+    
+  }
+  .Savings {
+    margin-top: 10px;
+    margin-bottom: 90;
+    height: 220px;
+    width: 220px;
+    border: 2px solid orange;
+    border-radius: 50%;
+    display: inline-block; 
+    margin-bottom: 60px; 
+    margin-left: 20px;  
+    width:150px;height:150px;    
+    border-radius:100px;
+    
+  }
+  .fcircle {
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+    width: 110px;
+    margin-left: 40px;;
+  }
+  .friendsk {          
+    border-radius: 10px;
+    padding: 1em 1em; 
+    background-color: #E6EDF6; 
+    height: 200px; 
+    margin-left: -20px; 
+    margin-right: -35px;
+       
+}
+ 
+  
+
+ 
